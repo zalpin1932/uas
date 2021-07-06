@@ -19,7 +19,7 @@ import javax.swing.JOptionPane;
 import javax.swing.Timer;
 /**
  *
- * @author 
+ * @author Faizal Nur Arifin
  */
 
 public class index extends javax.swing.JFrame {
